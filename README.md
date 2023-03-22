@@ -7,4 +7,7 @@
 
 # Graphic-Design-App
 
+
 <a href="https://vincevise.github.io/Grphic-Design-App/">Demo</a>
+
+The Resize feature is not working properly. Please refer to this app where the resize function works correctly : https://github.com/vincevise/CropImageTesting2
